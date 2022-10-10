@@ -1,2 +1,2 @@
-# roku-channels
-A public repository 'roku-channels' contains, roku channels for developers to learn and grow their roku/brightscript development skills.
+# Roku-CheckNetworkStatus
+A public repository 'Roku-CheckNetworkStatus' implements listening the Network Status in Roku Channels.
